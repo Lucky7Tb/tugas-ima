@@ -63,8 +63,9 @@ public class BesokHari {
                 System.out.println("Besok hari " + nextDay);
                 System.out.println( n + " hari kedepan adalah hari " + nDay);
             }else if(n > 7){
-                int sisaHari = n % 7;
-                switch (sisaHari + dayInputUser) {
+                n = (n % 7) + dayInputUser;
+                n = n > 7 ? n - 7 : n;
+                switch (n) {
                     case 1:
                         nDay = "Senin";
                         break;
