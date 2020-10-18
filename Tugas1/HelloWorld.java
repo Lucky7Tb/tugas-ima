@@ -4,8 +4,9 @@ class HelloWorld{
 
 	public static void main(String[] args){
 		
-		char a = 97;
-		System.out.println(a);
+		System.out.println("Nama  : Lucky Tri Bhakti");
+		System.out.println("Kelas : D3-RPLA-4401");
+		System.out.println("Nim   : 6706202055\n");
 	}
 	
 }
