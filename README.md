@@ -1,3 +1,3 @@
-# Jurnal 2 Mata Kuliah Implementasi Algoritma
+# Kumpulan Tugas Matakuliah Implementasi Algortima
 
-Jurnal untuk matakuliah Implementasi Algortma, Telkom University
+Kumpulan tugas matakuliah Implementasi Algortma, Telkom University
