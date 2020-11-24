@@ -1,4 +1,4 @@
-class SquaredNumbers{
+class JurnalO1{
 
 	public static void main(String[] args){
 		System.out.println("Soal ke-1\n");
