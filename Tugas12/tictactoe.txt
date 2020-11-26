@@ -1,0 +1,42 @@
+// if(ticTacToe[0][0] == 1 && ticTacToe[0][1] == 1 && ticTacToe[0][2] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[1][0] == 1 && ticTacToe[1][1] == 1 && ticTacToe[1][2] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[2][0] == 1 && ticTacToe[2][1] == 1 && ticTacToe[2][2] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[0][0] == 1 && ticTacToe[1][0] == 1 && ticTacToe[2][0] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[0][1] == 1 && ticTacToe[1][1] == 1 && ticTacToe[2][1] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[0][2] == 1 && ticTacToe[1][2] == 1 && ticTacToe[2][2] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[0][0] == 1 && ticTacToe[1][1] == 1 && ticTacToe[2][2] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[0][2] == 1 && ticTacToe[1][1] == 1 && ticTacToe[2][0] == 1){
+		// 	character = 'o';
+		// }else if(ticTacToe[0][0] == 2 && ticTacToe[0][1] == 2 && ticTacToe[0][2] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[1][0] == 2 && ticTacToe[1][1] == 2 && ticTacToe[1][2] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[2][0] == 2 && ticTacToe[2][1] == 2 && ticTacToe[2][2] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[0][0] == 2 && ticTacToe[1][0] == 2 && ticTacToe[2][0] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[0][1] == 2 && ticTacToe[1][1] == 2 && ticTacToe[2][1] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[0][2] == 2 && ticTacToe[1][2] == 2 && ticTacToe[2][2] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[0][0] == 2 && ticTacToe[1][1] == 2 && ticTacToe[2][2] == 2){
+		// 	character = 'x';
+		// }else if(ticTacToe[0][2] == 2 && ticTacToe[1][1] == 2 && ticTacToe[2][0] == 2){
+		// 	character = 'x';
+		// }else{
+		// 	for(int k = 0; k < 3; k++){
+		// 		for(int num : ticTacToe[k]){
+		// 			if(num == 0){
+		// 				character = '?';
+		// 				break;
+		// 			}
+		// 		}
+		// 	}
+		// }

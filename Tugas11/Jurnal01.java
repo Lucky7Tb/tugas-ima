@@ -8,6 +8,11 @@ class Jurnal01{
 		ArrayList<String> listName = new ArrayList<String>();
 		String name;
 
+		System.out.println("Soal ke-1\n");
+		System.out.println("Nama  : Lucky Tri Bhakti");
+		System.out.println("Kelas : D3-RPL-4401");    
+		System.out.println("NIM   : 6706202055\n");
+
 		do{
 			System.out.print("Masukan nama: ");
 			name = userInput.nextLine();

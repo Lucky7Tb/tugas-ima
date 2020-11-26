@@ -7,6 +7,11 @@ class TP02{
 		int totalParticipant;
 		int[] listNumber;
 
+		System.out.println("Soal ke-2\n");
+		System.out.println("Nama  : Lucky Tri Bhakti");
+		System.out.println("Kelas : D3-RPL-4401");    
+		System.out.println("NIM   : 6706202055\n");
+
 		System.out.print("Masukan banyak nilai: ");
 		totalParticipant = userInput.nextInt();
 

@@ -8,6 +8,11 @@ class TP01{
 			randomParticipant;
 		String[] listPeserta;
 
+		System.out.println("Soal ke-1\n");
+		System.out.println("Nama  : Lucky Tri Bhakti");
+		System.out.println("Kelas : D3-RPL-4401");    
+		System.out.println("NIM   : 6706202055\n");
+
 		System.out.print("Masukan berapa banyak peserta: ");
 		totalParticipant = userInput.nextInt();
 

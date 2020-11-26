@@ -10,6 +10,11 @@ class TP03{
 			modusNumber = 0,
 			counterModusNumber = 0;
 
+		System.out.println("Soal ke-3\n");
+		System.out.println("Nama  : Lucky Tri Bhakti");
+		System.out.println("Kelas : D3-RPL-4401");    
+		System.out.println("NIM   : 6706202055\n");
+
 		System.out.print("Masukan banyak bilangan: ");
 		listLength = userInput.nextInt();
 
