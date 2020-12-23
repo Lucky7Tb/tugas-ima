@@ -14,21 +14,22 @@ class Jurnal01{
         System.out.println("Kelas : D3-RPL-4401");    
         System.out.println("NIM   : 6706202055\n");
 
+        System.out.print("Masukan angka ke-1: ");
         number1 = userInput.nextInt();
+        System.out.print("Masukan angka ke-2: ");
         number2 = userInput.nextInt();
+        
+        userInput.close();
 
        	System.out.print(FPB(number1, number2));
 	}
 
 	private static int FPB(int number1, int number2){
 		if(number1 >= number2 && number1 % number2 == 0){
-
 			return number2;
 		}else if(number1 < number2){
-
 			return FPB(number2, number1);
 		}else{
-
 			return FPB(number2, number1 % number2);
 		}
 	}
